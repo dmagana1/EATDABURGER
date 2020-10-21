@@ -15,8 +15,18 @@ Also Heroku is a pain to work with, I could not get it to delopy, but I will con
 After looking over my code and checking for errors; I relize that I wrote the code incorrectly and that I missed spelled a word or two, and that I was using the incorrecly localhost, but after I fixed everything I was able to get the application to work. 
 
 # Pictures
+### What the Project looks like
 ![alt text](projectpictures/Burger1.JPG)
 
 ![alt text](projectpictures/burger2.JPG)
 
 ![alt text](projectpictures/burger3.JPG)
+
+### Errors that occured
+![alt text](projectpictures/error1.JPG)
+
+### Heroku Error
+![alt text](projectpictures/herokuerror1.JPG)
+
+![alt text](projectpictures/herokuerror2.JPG)
+
