@@ -13,3 +13,6 @@ Also Heroku is a pain to work with, I could not get it to delopy, but I will con
 
 # Solution
 After looking over my code and checking for errors; I relize that I wrote the code incorrectly and that I missed spelled a word or two, and that I was using the incorrecly localhost, but after I fixed everything I was able to get the application to work. 
+
+# Pictures
+![alt text](projectpictures/Burger1.JPG)
