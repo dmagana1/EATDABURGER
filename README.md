@@ -12,4 +12,4 @@ I ran into problems again, and I had the same issues as I did with Employee Trac
 Also Heroku is a pain to work with, I could not get it to delopy, but I will continue to work on it, and I also added pictures of the error that popped up. 
 
 # Solution
-After looking over my code and checking for errors; I relize that I wrote the code incorrectly and that I missed spelled a word or two, and I was able to get the application to work. 
+After looking over my code and checking for errors; I relize that I wrote the code incorrectly and that I missed spelled a word or two, and that I was using the incorrecly localhost, but after I fixed everything I was able to get the application to work. 
