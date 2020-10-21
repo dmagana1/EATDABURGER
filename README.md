@@ -19,4 +19,4 @@ After looking over my code and checking for errors; I relize that I wrote the co
 
 ![alt text](projectpictures/burger2.JPG)
 
-[alt text](projectpictures/burger3.JPG)
+![alt text](projectpictures/burger3.JPG)
