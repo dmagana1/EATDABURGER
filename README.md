@@ -30,5 +30,23 @@ After looking over my code and checking for errors; I relize that I wrote the co
 
 ![alt text](projectpictures/herokuerror2.JPG)
 
+##### Redeployed to Heroku and it said it was successful 
 ![alt text](projectpictures/heroku3.JPG)
+
+![alt text](projectpictures/heroku4.JPG)
+
+![alt text](projectpictures/heroku5.JPG)
+
+##### Error Still occured 
+
+![alt text](projectpictures/error1.JPG)
+
+
+
+
+
+
+
+
+
 
