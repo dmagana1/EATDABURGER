@@ -41,6 +41,10 @@ After looking over my code and checking for errors; I relize that I wrote the co
 
 ![alt text](projectpictures/herokuerror1.JPG)
 
+##### I dont understand why my heroku will not display the website, and I ran the log to see if there are any errors it looks like there isn't. 
+
+![alt text](projectpictures/heroku6.JPG)
+
 
 
 
