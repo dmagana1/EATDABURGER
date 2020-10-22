@@ -30,3 +30,5 @@ After looking over my code and checking for errors; I relize that I wrote the co
 
 ![alt text](projectpictures/herokuerror2.JPG)
 
+![alt text](projectpictures/heroku3.JPG)
+
