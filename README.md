@@ -1,5 +1,7 @@
 # EAT DA BURGER
 
+I thought I knew what was wrong with my homework, and why it didnt want to deploy to Heroku, so I rewrote code and attempted to fix the problem, but after weeks of getting no where, I finally asked for help from a TA, and he was so amazing and walked me throught the small error I had in my code, and it everything works correctly now, and if you click the following link. You will be able to see the application up and running https://limitless-garden-40130.herokuapp.com/ . 
+
 # Description 
 This is an appilcation allows the user will select what type of burger/sandwich they want to eat, and then have a button that said, "EAT!" This application was made with MySQL, Node, Express, Handlebars and ORM.
 
@@ -7,7 +9,7 @@ This is an appilcation allows the user will select what type of burger/sandwich 
 https://drive.google.com/file/d/1os074_mTLzwDPmHxXPdDlS5BOY_wG_Bl/view 
 
 ##### Click to View Website lauched in Heroku
-https://burgerlogger12.herokuapp.com/
+https://limitless-garden-40130.herokuapp.com/ 
 
 # Problems
 I ran into problems again, and I had the same issues as I did with Employee Tracker assingment. I google the error that kept popping up, and I try to fix it. Then I would rerun the project, and the errors still come up, or new error would arise. I have add pictures below of the errors that pop up. 
@@ -16,6 +18,7 @@ Also Heroku is a pain to work with, I could not get it to delopy, but I will con
 
 # Solution
 After looking over my code and checking for errors; I relize that I wrote the code incorrectly and that I missed spelled a word or two, and that I was using the incorrect localhost, but after I fixed everything I was able to get the application to work. 
+
 
 # Pictures
 ### What the Project looks like
