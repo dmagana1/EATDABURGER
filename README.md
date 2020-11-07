@@ -1,6 +1,6 @@
 # EAT DA BURGER
 
-I thought I knew what was wrong with my homework, and why it didnt want to deploy to Heroku, so I rewrote code and attempted to fix the problem, but after weeks of getting no where, I finally asked for help from a TA, and he was so amazing and walked me throught the small error I had in my code, and it everything works correctly now, and if you click the following link. You will be able to see the application up and running https://limitless-garden-40130.herokuapp.com/ . 
+I thought I had coded the assignment wrong and that is why it wouldnt deploy to Heroku, so I went back looked at; rewrote code where I thought I has messed up, and still Heroku wouldnt deployee my project. After weeks of getting no where, I finally asked for help from a TA, and Marsim was so amazing and walked me throught the small error I had in Heroku.........I has simply forgotten to add Jawsdb to Heroku, and after that everything worked correctly, and if you click the following link you will be able to see the application up and running https://limitless-garden-40130.herokuapp.com/ . 
 
 # Description 
 This is an appilcation allows the user will select what type of burger/sandwich they want to eat, and then have a button that said, "EAT!" This application was made with MySQL, Node, Express, Handlebars and ORM.
